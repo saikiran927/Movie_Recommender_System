@@ -19,8 +19,8 @@ It is Movie recomendation system based on content based filtering where Content-
 Sample Dataset
 
 ## Screenshots
+![Screenshot 2024-07-18 004138](https://github.com/user-attachments/assets/8d7a5931-6015-48c0-aea8-9b937782ecfb)
 
-![movies overview]{D:\End to End projects\Movie_Recomender_system\Screenshot 2024-07-18 004138.png}
 
 
 
