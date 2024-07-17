@@ -19,11 +19,12 @@ It is Movie recomendation system based on content based filtering where Content-
 Sample Dataset
 
 ## Screenshots
+
 ![Screenshot 2024-07-18 004138](https://github.com/user-attachments/assets/8d7a5931-6015-48c0-aea8-9b937782ecfb)
 
 Output of the recomended Movies for spider man when it is selected.
 
-![Screenshot 2024-07-18 004231](https://github.com/user-attachments/assets/37ad6dfd-7761-4c02-a94c-526f7e7d4005)
+![Screenshot 2024-07-18 004312](https://github.com/user-attachments/assets/bc7ec69b-5140-4337-a931-33461df264b4)
 
 Output of the recomended Movies for avenger when it is selected
 
