@@ -1,4 +1,4 @@
-Movie Recomendation System based on Content Based Filtering
+Movie Recomendation System based on Content Based Filtering.
 
 It is Movie recomendation system based on content based filtering where Content-based filtering in recommender systems leverages machine learning algorithms to predict and recommend movies and similar items to the user interest. Recommending products based on their characteristics is only possible if there is a clear set of features for the product and a list of the user's choices.
 
