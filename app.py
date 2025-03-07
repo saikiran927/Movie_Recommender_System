@@ -31,6 +31,7 @@ st.title(":red[Movie Recommender System]")
 
 
 selected_movie=st.selectbox("Select movie from dropdown", movies['title'].values)
+print("This is movie recomendor system")
 
 
 if st.button("Show Recommend"):
