@@ -33,7 +33,7 @@ st.title(":red[Movie Recommender System]")
 selected_movie=st.selectbox("Select movie from dropdown", movies['title'].values)
 print("This is movie recomendor system")
 
-
+# this is the streamlit code 
 if st.button("Show Recommend"):
     movie_name,movie_poster=recommend(selected_movie)
     col1, col2, col3, col4, col5 = st.columns(5)
@@ -43,7 +43,7 @@ if st.button("Show Recommend"):
     with col2:
         st.image(movie_poster[1])
         st.text(movie_name[1])
-    with col3:
+    with col3:  
         st.image(movie_poster[2])
         st.text(movie_name[2])
     with col4:
